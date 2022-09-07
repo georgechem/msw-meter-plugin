@@ -1,0 +1,1 @@
+# msw-meter-plugin
